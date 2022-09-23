@@ -4,8 +4,8 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 
 <font color=#0099ff size=3>O blockchain é um livro digital incorruptível de transações que pode ser programado para registrar transações além das financeiras por meio de Smart Contract.</font>
 
-## Contents
-<details><summary>Click to expand</summary>
+## Conteúdo
+<details><summary>Clique para expandir</summary>
 
 - [Blockchain](#blockchain)
   - [Conteúdo](#conteudo)
@@ -27,9 +27,9 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
   - [Projetos e Aplicações](#projetos)
     - [.](#.)
   - [Publicações próprias](#publicacoes)
-    - [Papers](#papers)
-    - [Books](#books)
-    - [Applications](#applications)
+    - [Artigos](#papers)
+    - [Livros](#books)
+    - [Aplicações](#applications)
    - [Contribuição](#contribuicao)
 
 </details>
