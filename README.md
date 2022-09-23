@@ -23,15 +23,26 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
     - [Solidity](#solidity)
     - [truffle](#truffle)
     - [web3.js](#web3js)
-  - [Implementation of Blockchain](#implementation-of-blockchain)
+  - [Implementações de Blockchain](#implementation-of-blockchain)
   - [Projetos e Aplicações](#projetos)
     - [.](#.)
-  - [Publicações próprias](#publicacoes)
+  - [Publicações do grupo](#publicacoes)
     - [Artigos](#papers)
     - [Livros](#books)
     - [Aplicações](#applications)
    - [Contribuição](#contribuicao)
 
 </details>
+## Introdução básica
+
+## Tutorial de desenvolvimento
+
+## Ferramentas
+
+## Implementações de Blockchain
+
+## Projetos e Aplicações
+
+## Publicações do grupo
 
 Se você achou este recurso útil, dê um 🌟, caso contrário, contribua com ele e dê um ⭐️.
