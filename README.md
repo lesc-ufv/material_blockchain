@@ -44,5 +44,23 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 ## Projetos e Aplicações
 
 ## Publicações do grupo
++Análise de Custo de Infraestrutura em Redes Blockchain Publicas e Permissionadas
+RD Mendonça, PH Dantas, GD Gonçalves, AB Vieira, JAM Nacif
+Anais do V Workshop em Blockchain: Teoria, Tecnologias e Aplicações, 26-39		2022
 
++Tratamento de Concessão e Revogação de Acesso a Registros Eletrônicos de Saúde em Blockchain
+RD Mendonça, OS Gomes, AB Vieira, JA Nacif
+Anais do IV Workshop em Blockchain: Teoria, Tecnologias e Aplicações, 100-113	1	2021
+
++Blockcoldchain: Vaccine cold chain blockchain
+RD Mendonça, OS Gomes, LFM Vieira, MAM Vieira, AB Vieira, JAM Nacif
+arXiv preprint arXiv:2104.14357	9	2021
+
++Utilização de Blockchain na Rastreabilidade da Cadeia Produtiva do Leite
+RD Mendonça, OS Gomes, PC Pereira, AB Vieira, JA Nacif
+Anais do III Workshop em Blockchain: Teoria, Tecnologia e Aplicações, 55-60	6	2020
+
+
+
+## Contribuição
 Se você achou este recurso útil, dê um 🌟, caso contrário, contribua com ele e dê um ⭐️.
