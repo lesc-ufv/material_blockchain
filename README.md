@@ -14,7 +14,7 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
   - [Ferramentas](#ferramentas)
   - [Implementações de Blockchain](#implementation-of-blockchain)
   - [Projetos e Aplicações](#projetos)
-  - [Publicações do grupo](#publicacoes)
+  - [Publicações do grupo](#publicações do grupo)
   - [Contribuição](#contribuicao)
 
 </details>
