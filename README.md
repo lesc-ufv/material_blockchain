@@ -10,33 +10,26 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 - [Blockchain](#blockchain)
   - [Conteúdo](#conteudo)
   - [Introdução básica](#introducao)
-    - [Criptografia](#criptografia)
-    - [Consenso](#consenso)
-    - [Ledger](#ledger)
-    - [Ranking criptomoedas](#cripto)
-  - [Tutorial de desenvolvimento](#tutorial)
-    - [BitCoin](#bitcoin)
-    - [Ethereum](#ethereum)
-    - [Consortium Blockchain](#consortium-blockchain)
-      - [Hyperledger](#hyperledger)
+  - [Plataformas](#plataformas)
   - [Ferramentas](#ferramentas)
-    - [Solidity](#solidity)
-    - [truffle](#truffle)
-    - [web3.js](#web3js)
   - [Implementações de Blockchain](#implementation-of-blockchain)
   - [Projetos e Aplicações](#projetos)
-    - [.](#.)
   - [Publicações do grupo](#publicacoes)
-    - [Artigos](#papers)
-    - [Livros](#books)
-    - [Aplicações](#applications)
-   - [Contribuição](#contribuicao)
+  - [Contribuição](#contribuicao)
 
 </details>
 
 ## Introdução básica
+    - [Criptografia](#criptografia)
+    - [Consenso](#consenso)
+    - [Ledger](#ledger)
+    - [Ranking criptomoedas](#cripto)
 
-## Tutorial de desenvolvimento
+## Plataformas
+    - [BitCoin](#bitcoin)
+    - [Ethereum](#ethereum)
+    - [Consortium Blockchain](#consortium-blockchain)
+      - [Hyperledger](#hyperledger)
 
 ## Ferramentas
 * [Solidity](https://docs.soliditylang.org/)
