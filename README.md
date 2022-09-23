@@ -10,6 +10,10 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 - [Blockchain](#blockchain)
   - [Conteúdo](#conteudo)
   - [Introdução básica](#introducao)
+    - [Criptografia](#criptografia)
+    - [Consenso](#consenso)
+    - [Ledger](#ledger)
+    - [Ranking criptomoedas](#cripto)
   - [Tutorial de desenvolvimento](#tutorial)
     - [BitCoin](#bitcoin)
     - [Ethereum](#ethereum)
@@ -26,7 +30,7 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
     - [Papers](#papers)
     - [Books](#books)
     - [Applications](#applications)
-   - [Contribute](#contribute)
+   - [Contribuição](#contribuicao)
 
 </details>
 
