@@ -29,12 +29,12 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 * [BitCoin](#bitcoin)
 * [Ethereum](#ethereum)
 * [Consortium Blockchain](#consortium-blockchain)
-* [Hyperledger](#hyperledger)
+  * [Hyperledger](#hyperledger)
 
 ## Ferramentas
 * [Solidity](https://docs.soliditylang.org/)
 * [Truffle](https://trufflesuite.com)
-  * [web3.js](https://web3js.readthedocs.io)
+* [web3.js](https://web3js.readthedocs.io)
 
 ## Implementações de Blockchain
 
