@@ -8,7 +8,6 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 <details><summary>Clique para expandir</summary>
 
 - [Blockchain](#blockchain)
-  - [Conteúdo](#conteudo)
   - [Introdução básica](#introducao)
   - [Plataformas](#plataformas)
   - [Ferramentas](#Ferramentas)
