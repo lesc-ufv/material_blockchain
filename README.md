@@ -20,10 +20,10 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 </details>
 
 ## Introdução básica
-    - [Criptografia](#criptografia)
-    - [Consenso](#consenso)
-    - [Ledger](#ledger)
-    - [Ranking criptomoedas](#cripto)
+* [Criptografia](#criptografia)
+* [Consenso](#consenso)
+* [Ledger](#ledger)
+* [Ranking criptomoedas](#cripto)
 
 ## Plataformas
 * [BitCoin](#bitcoin)
