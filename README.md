@@ -40,9 +40,8 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 
 ## Ferramentas
 * [Solidity](https://docs.soliditylang.org/)
-truffle
-web3.js
-* [Practical Byzantine Fault Tolerance](https://www.jianshu.com/p/e991c1385f9f)
+* [truffle](https://trufflesuite.com)
+* [web3.js](https://web3js.readthedocs.io)
 
 ## Implementações de Blockchain
 
