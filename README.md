@@ -60,7 +60,7 @@ arXiv preprint arXiv:2104.14357	9	2021
 RD Mendonça, OS Gomes, PC Pereira, AB Vieira, JA Nacif
 Anais do III Workshop em Blockchain: Teoria, Tecnologia e Aplicações, 55-60	6	2020
 
-### Livros
+### Capítulo de livro (Minicurso)
 + Tokens Não Fungíveis (NFTs): Conceitos, Aplicações e Desafios	Ronan Mendonça (UFV), Josué Campos (UFV), Luiz F. M. Vieira (UFMG), Marcos A. M. Vieira (UFMG), Alex Borges Vieira (UFJF), José A. M. Nacif (UFV) Minicurso SBRC 2022
 
 ### Aplicações
