@@ -36,12 +36,12 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
   * [Hyperledger Besu](https://www.hyperledger.org/use/besu)
 
 ## Ferramentas de desenvolvimento
-*Ethereum
+* Ethereum
   * [Solidity](https://docs.soliditylang.org/)
   * [Truffle](https://trufflesuite.com)
   * [web3.js](https://web3js.readthedocs.io)
   * [web3.py](https://web3py.readthedocs.io)
-*Hyperledger Fabric
+* Hyperledger Fabric
   * [Minifabric](https://labs.hyperledger.org/labs/minifabric.html)
   * [Git Minifabric](https://github.com/hyperledger-labs/minifabric)
   * [Minifabric: uma ferramenta de início rápido para Hyperledger Fabric "video"](https://youtu.be/RN_MHXyW1y0)
