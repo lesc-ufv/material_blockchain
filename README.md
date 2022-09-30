@@ -19,10 +19,13 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 </details>
 
 ## Introdução básica
-* [Criptografia](#criptografia)
-* [Consenso](#consenso)
-* [Ledger](#ledger)
-* [Ranking criptomoedas](#cripto)
+* [Blockchain 1,](https://www.geeksforgeeks.org/blockchain-technology-introduction/?ref=rp)
+* [Blockchain 2,](https://www.geeksforgeeks.org/introduction-to-blockchain/?ref=rp)
+* [Blockchain 3,](https://www.geeksforgeeks.org/benefits-of-blockchain-technology/?ref=rp)
+* [Criptografia](https://www.geeksforgeeks.org/cryptography-in-blockchain/)
+* [Consenso](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/)
+* [Ledger](https://www.geeksforgeeks.org/blockchain-and-distributed-ledger-technology-dlt/?ref=rp)
+* [Ranking criptomoedas](https://coinmarketcap.com/)
 
 ## Plataformas
 * [BitCoin](#bitcoin)
