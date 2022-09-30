@@ -2,7 +2,7 @@
 
 Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockchains.
 
-<font color=#0099ff size=3>O blockchain é um livro digital incorruptível de transações que pode ser programado para registrar transações além das financeiras por meio de Smart Contract.</font>
+<font color=#0099ff size=3>A blockchain é um livro digital incorruptível de transações que pode ser programado para registrar transações além das financeiras por meio de Smart Contract.</font>
 
 ## Conteúdo
 <details><summary>Clique para expandir</summary>
@@ -11,8 +11,6 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
   - [Introdução básica](#introducao)
   - [Plataformas](#plataformas)
   - [Ferramentas](#Ferramentas)
-  - [Implementações de Blockchain](#implementation-of-blockchain)
-  - [Projetos e Aplicações](#Projetos)
   - [Publicações do grupo](#Publicacoes)
   - [Contribuição](#Contribuição)
 
@@ -44,10 +42,6 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
   * [Minifabric](https://labs.hyperledger.org/labs/minifabric.html)
   * [Git Minifabric](https://github.com/hyperledger-labs/minifabric)
   * [Minifabric: uma ferramenta de início rápido para Hyperledger Fabric "video"](https://youtu.be/RN_MHXyW1y0)
-
-## Implementações de Blockchain
-
-## Projetos e Aplicações
 
 ## Publicações do grupo
 
