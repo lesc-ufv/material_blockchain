@@ -29,7 +29,7 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 
 ## Plataformas
 * [BitCoin](https://bitcoin.org/)
-* [Ethereum]([#ethereu](https://ethereum.org/)m)
+* [Ethereum](https://ethereum.org/)
 * [Consortium Blockchain]([#consortium-blockchai](https://www.hyperledger.org/)n)
   * [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
   * [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)
@@ -41,6 +41,10 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
   * [Truffle](https://trufflesuite.com)
   * [web3.js](https://web3js.readthedocs.io)
   * [web3.py](https://web3py.readthedocs.io)
+*Hyperledger Fabric
+  * [Minifabric](https://labs.hyperledger.org/labs/minifabric.html)
+  * [Git Minifabric](https://github.com/hyperledger-labs/minifabric)
+  * [Minifabric: uma ferramenta de início rápido para Hyperledger Fabric "video"](https://youtu.be/RN_MHXyW1y0)
 
 ## Implementações de Blockchain
 
