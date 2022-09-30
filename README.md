@@ -35,11 +35,12 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
   * [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)
   * [Hyperledger Besu](https://www.hyperledger.org/use/besu)
 
-## Ferramentas
-* [Solidity](https://docs.soliditylang.org/)
-* [Truffle](https://trufflesuite.com)
-* [web3.js](https://web3js.readthedocs.io)
-* [web3.py](https://web3py.readthedocs.io)
+## Ferramentas de desenvolvimento
+*Ethereum
+  * [Solidity](https://docs.soliditylang.org/)
+  * [Truffle](https://trufflesuite.com)
+  * [web3.js](https://web3js.readthedocs.io)
+  * [web3.py](https://web3py.readthedocs.io)
 
 ## Implementações de Blockchain
 
