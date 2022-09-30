@@ -28,10 +28,12 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 * [Ranking criptomoedas](https://coinmarketcap.com/)
 
 ## Plataformas
-* [BitCoin](#bitcoin)
-* [Ethereum](#ethereum)
-* [Consortium Blockchain](#consortium-blockchain)
-  * [Hyperledger](#hyperledger)
+* [BitCoin](https://bitcoin.org/)
+* [Ethereum]([#ethereu](https://ethereum.org/)m)
+* [Consortium Blockchain]([#consortium-blockchai](https://www.hyperledger.org/)n)
+  * [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
+  * [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)
+  * [Hyperledger Besu](https://www.hyperledger.org/use/besu)
 
 ## Ferramentas
 * [Solidity](https://docs.soliditylang.org/)
