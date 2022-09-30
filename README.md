@@ -35,7 +35,8 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 
 ## Ferramentas de desenvolvimento
 * Ethereum
-  * [Solidity](https://docs.soliditylang.org/)
+  * [Solidity docs](https://docs.soliditylang.org/) [Tutorial 1](https://www.tutorialspoint.com/solidity/index.htm)  [Tutorial 2](https://cryptozombies.io/)  [Tutorial 3](https://www.edureka.co/blog/solidity-tutorial/)
+  * [Remix](https://remix.ethereum.org/)
   * [Truffle](https://trufflesuite.com)
   * [web3.js](https://web3js.readthedocs.io)
   * [web3.py](https://web3py.readthedocs.io)
