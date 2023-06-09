@@ -47,11 +47,11 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 
 ### Artigos
 
-+ [Comparação e Análise de Custo e Desempenho entre Nós de Redes Blockchain Permissionadas e Públicas (https://sol.sbc.org.br/index.php/sbrc/article/download/24535/24356/))
++ [Comparação e Análise de Custo e Desempenho entre Nós de Redes Blockchain Permissionadas e Públicas](https://sol.sbc.org.br/index.php/sbrc/article/download/24535/24356/)
 RD Mendonça, EM de Araújo Moura, GD Gonçalves, AB Vieira, JAM Nacif
 Anais do XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC-SBC), 141-154		2023
 
-+ [Análise de Custo de Infraestrutura em Redes Blockchain Publicas e Permissionadas](https://sol.sbc.org.br/index.php/wblockchain/article/download/21469/21293/)
++ [Análise de Custo de Infraestrutura em Redes Blockchain Publicas e Permissionadas](https://sol.sbc.org.br/index.php/wblockchain/article/download/21469/21293)
 RD Mendonça, PH Dantas, GD Gonçalves, AB Vieira, JAM Nacif
 Anais do V Workshop em Blockchain: Teoria, Tecnologias e Aplicações, 26-39		2022
 
