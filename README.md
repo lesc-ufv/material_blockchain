@@ -11,6 +11,7 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
   - [Introdução básica](#introducao)
   - [Plataformas](#plataformas)
   - [Ferramentas](#Ferramentas)
+  - [Segurança](#Seguranca)
   - [Publicações do grupo](#Publicacoes)
   - [Contribuição](#Contribuição)
 
@@ -43,9 +44,34 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
   * [Git Minifabric](https://github.com/hyperledger-labs/minifabric)
   * [Minifabric: uma ferramenta de início rápido para Hyperledger Fabric "video"](https://youtu.be/RN_MHXyW1y0)
 
+## Segurança
+* Noções básicas
+  * [Basics of Solidity language](https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)
+  * [New syntax for Solidity 0.8](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
+  * [Ethereum book](https://github.com/ethereumbook/ethereumbook)
+* Técnicas
+  * [Verificação formal](https://ssvlab.github.io/lucasccordeiro/courses/2022/01/software-security/index.html)
+  * [Machine learning](https://medium.com/@solidity101/revolutionizing-smart-contract-audits-with-ai-and-machine-learning-2d9cc6927fa)
+  * [Fuzzing](https://soliditylang.org/blog/2021/02/10/an-introduction-to-soliditys-fuzz-testing-approach/)
+* Ferramentas
+  * [Mythril](https://github.com/Consensys/mythril)
+  * [Slither](https://github.com/crytic/slither)
+  * [Echidna](https://github.com/crytic/echidna)
+  * [Etheno](https://github.com/crytic/etheno)
+* Vulnerabilidades
+  * [SWC Registry](https://swcregistry.io/)
+  * [Smart Contract Security Guide Field](https://scsfg.io/)
+  * [EEA EthTrust Security Levels Specification](https://entethalliance.org/specs/ethtrust-sl/v2/)
+* Datasets
+  * [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary)
+  * [Slither Audited Smart Contracts](https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts)
+
 ## Publicações do grupo
 
 ### Artigos
+
++ [Detecção de Vulnerabilidades em Contratos Inteligentes Utilizando Arvore Sintática Abstrata](https://sol.sbc.org.br/index.php/sbseg/article/download/27217/27033)
+ED Esquivel, JN Campos, RD Mendonça, AB Vieira, JAM Nacif. Anais do XXIII Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSEG-SBC), 335-348 2023.
 
 + [Comparação e Análise de Custo e Desempenho entre Nós de Redes Blockchain Permissionadas e Públicas](https://sol.sbc.org.br/index.php/sbrc/article/download/24535/24356/)
 RD Mendonça, EM de Araújo Moura, GD Gonçalves, AB Vieira, JAM Nacif
