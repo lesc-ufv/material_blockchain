@@ -69,6 +69,21 @@ Lista com curadoria de materiais para o aprendizado e desenvolvimento em Blockch
 ## Publicações do grupo
 
 ### Artigos
++ [Análise de Custo e Desempenho de Protocolos para Interoperabilidade de Tokens em Redes Blockchain](https://sol.sbc.org.br/index.php/wblockchain/article/view/35463/35250)
+Fredison Muniz, Ronan D Mendonça, Emanuel F de Miranda, Ítalo WF Cardoso, Rafael Coelho, Alex B Vieira, José AM Nacif, Glauber D Gonçalves.
+Workshop em Blockchain: Teoria, Tecnologias e Aplicações (WBlockchain). SBC, 2025. p. 1-14.
+
++ [Finanças Descentralizadas em Redes Blockchain: Perspectivas sobre Pesquisa e Inovação em Aplicações, Interoperabilidade e Segurança](https://books-sol.sbc.org.br/index.php/sbc/catalog/view/145/635/1105)
+Josué N. Campo, Ronan D. Mendonça, Alexandre Fontinele, Luís H. S. de Carvalho, Isdael R. Oliveira, Ítallo W. F. Cardoso, Rafael Coelho, Allan E. S. Freitas, Glauber D. Gonçalves, José A. M. Nacif, Alex B. Vieira.
+ Jornada de Atualização em Informática 2024 - Sociedade Brasileira de Computação (SBC).
+
++ [Mecanismos de Interoperabilidade em Blockchains: Um Comparativo de Custo de Transaçoes Cross-chain para Tokens ERC-20]([link](https://sol.sbc.org.br/index.php/wblockchain/article/view/30100/29908))
+Ronan D Mendonça, Ítallo WF Cardoso, Rafael Coelho, Josué N Campos, Glauber D Gonçalves, Alex B Vieira, José AM Nacif.
+Workshop em Blockchain: Teoria, Tecnologias e Aplicações (WBlockchain).
+
++ [Blockchain applied to the traceability of animal products: a systematic literature review](https://www.scielo.br/j/rca/a/NMd5XHYdVDctVr964G4BJnn/)
+Hiago Henrique Rocha Zanetoni, Daniel Marçal de Queiroz, Mario Luiz Chizzotti, Ronan Dutra Mendonça, Fernando da Costa Baêta, Andre Luiz de Freitas Coelho, José Augusto Miranda Nacif.
+ Revista Ciência Agronômica/Universidade Federal do Ceará, 2024/3/8.
 
 + [Detecção de Vulnerabilidades em Contratos Inteligentes Utilizando Arvore Sintática Abstrata](https://sol.sbc.org.br/index.php/sbseg/article/download/27217/27033)
 ED Esquivel, JN Campos, RD Mendonça, AB Vieira, JAM Nacif. Anais do XXIII Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSEG-SBC), 335-348 2023.
