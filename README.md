@@ -77,7 +77,7 @@ Workshop em Blockchain: Teoria, Tecnologias e Aplicações (WBlockchain). SBC, 2
 Josué N. Campo, Ronan D. Mendonça, Alexandre Fontinele, Luís H. S. de Carvalho, Isdael R. Oliveira, Ítallo W. F. Cardoso, Rafael Coelho, Allan E. S. Freitas, Glauber D. Gonçalves, José A. M. Nacif, Alex B. Vieira.
  Jornada de Atualização em Informática 2024 - Sociedade Brasileira de Computação (SBC).
 
-+ [Mecanismos de Interoperabilidade em Blockchains: Um Comparativo de Custo de Transaçoes Cross-chain para Tokens ERC-20]([link](https://sol.sbc.org.br/index.php/wblockchain/article/view/30100/29908))
++ [Mecanismos de Interoperabilidade em Blockchains: Um Comparativo de Custo de Transaçoes Cross-chain para Tokens ERC-20](https://sol.sbc.org.br/index.php/wblockchain/article/view/30100/29908)
 Ronan D Mendonça, Ítallo WF Cardoso, Rafael Coelho, Josué N Campos, Glauber D Gonçalves, Alex B Vieira, José AM Nacif.
 Workshop em Blockchain: Teoria, Tecnologias e Aplicações (WBlockchain).
 
